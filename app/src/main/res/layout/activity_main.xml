@@ -9,6 +9,8 @@
     tools:context="com.azhuoinfo.clickzandemo.MainActivity">
 
    <Button
+       android:background="#f00"
+       android:textColor="@android:color/white"
        android:id="@+id/btn_test"
        android:layout_width="100dp"
        android:layout_height="40dp"
